@@ -1,1 +1,0 @@
-![](https://hackmd.io/_uploads/Hy6k9jtBJg.jpg)
