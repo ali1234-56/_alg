@@ -13,7 +13,7 @@
 
 使用RandLA-Net模型應用在輕量化的大規模點雲Semantic Segmentation，比PointNet++、SPG或KPConv等模型速度還快，記憶體的佔用也是相對較小，mIoU也比以上提到的方法都高。
 
-![318664](https://hackmd.io/_uploads/BkIFX2YByg.jpg)
+![](https://hackmd.io/_uploads/BkIFX2YByg.jpg)
 校園內資料蒐集
 
 ![12 (1)](https://hackmd.io/_uploads/HkxvsBjrJg.png)
